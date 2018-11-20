@@ -1,0 +1,16 @@
+{
+  "name": "Gulp Bundle WP Plugin",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "bundle": "gulp"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-notify": "^3.0.0",
+    "gulp-zip": "^4.2.0"
+  }
+}
